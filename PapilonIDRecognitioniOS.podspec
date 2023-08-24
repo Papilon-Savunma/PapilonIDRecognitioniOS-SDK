@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PapilonIDRecognitioniOS'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ID and Passport Recognition with OCR'
 
   s.description      = "Library for ID Recognition and OCR on several countries' ID cards"
