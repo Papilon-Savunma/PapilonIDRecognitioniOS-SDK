@@ -1031,965 +1031,972 @@
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
       "offset": 2171,
-      "length": 49,
-      "value": "\"https:\/\/license.seeandsign.com\/config\/ios?card=\""
+      "length": 52,
+      "value": "\"https:\/\/license.seeandsign.com\/v2\/config\/ios?card=\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 2436,
+      "offset": 2439,
       "length": 9,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 2777,
+      "offset": 2780,
       "length": 8,
       "value": "\"fields\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 2898,
+      "offset": 2901,
       "length": 10,
       "value": "\"Fields: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3002,
+      "offset": 3005,
       "length": 5,
       "value": "\"ref\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3125,
+      "offset": 3128,
       "length": 20,
       "value": "\"Reference for ID: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3256,
+      "offset": 3259,
       "length": 9,
       "value": "\"initial\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3388,
+      "offset": 3391,
       "length": 28,
       "value": "\"Initial reference for ID: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3524,
+      "offset": 3527,
       "length": 9,
       "value": "\"ref_img\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3934,
+      "offset": 3937,
       "length": 11,
       "value": "\"threshold\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4091,
+      "offset": 4094,
       "length": 20,
       "value": "\"Threshold for ID: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4173,
+      "offset": 4176,
       "length": 82,
       "value": "\"=================== DATA FETCHED, END OF JSON FETCH OPS ========================\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4325,
+      "offset": 4328,
       "length": 39,
       "value": "\"=====================================\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4400,
+      "offset": 4403,
       "length": 71,
       "value": "\"Error in fetching JSON file. Check your API or internet connection.\n\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4507,
+      "offset": 4510,
       "length": 9,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4559,
+      "offset": 4562,
       "length": 39,
       "value": "\"=====================================\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 4863,
+      "offset": 4866,
       "length": 27,
       "value": "\"Permission is not granted\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 5177,
+      "offset": 5180,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5205,
+      "offset": 5208,
       "length": 8,
       "value": "\"token=\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5224,
+      "offset": 5227,
       "length": 14,
       "value": "\"&license_id=\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5364,
-      "length": 50,
-      "value": "\"https:\/\/license.seeandsign.com\/license\/authorize\""
+      "offset": 5367,
+      "length": 53,
+      "value": "\"https:\/\/license.seeandsign.com\/v2\/license\/authorize\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5476,
+      "offset": 5482,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5533,
+      "offset": 5539,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5578,
+      "offset": 5584,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 6350,
+      "offset": 5929,
+      "length": 21,
+      "value": "\"Authorize request: \""
+    },
+    {
+      "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
+      "kind": "StringLiteral",
+      "offset": 6355,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 6487,
+      "offset": 6492,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6941,
+      "offset": 6946,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 6969,
+      "offset": 6974,
       "length": 16,
       "value": "\"session_token=\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 6996,
+      "offset": 7001,
       "length": 26,
       "value": "\"&function=id_recognition\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 7135,
-      "length": 55,
-      "value": "\"https:\/\/license.seeandsign.com\/license\/verify_session\""
+      "offset": 7140,
+      "length": 58,
+      "value": "\"https:\/\/license.seeandsign.com\/v2\/license\/verify_session\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 7252,
+      "offset": 7260,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 7309,
+      "offset": 7317,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 7354,
+      "offset": 7362,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8106,
+      "offset": 8114,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8162,
+      "offset": 8170,
       "length": 39,
       "value": "\", your quota for this SDK is expired.\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8272,
+      "offset": 8280,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8415,
+      "offset": 8423,
       "length": 11,
       "value": "\"signature\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8581,
+      "offset": 8589,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8681,
+      "offset": 8689,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8773,
+      "offset": 8781,
       "length": 8,
       "value": "\"public\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8797,
+      "offset": 8805,
       "length": 5,
       "value": "\"pem\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8817,
+      "offset": 8825,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8946,
+      "offset": 8954,
       "length": 28,
       "value": "\"-----BEGIN PUBLIC KEY-----\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9069,
+      "offset": 9077,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 9209,
+      "offset": 9217,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 9221,
+      "offset": 9229,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 9260,
+      "offset": 9268,
       "length": 26,
       "value": "\"-----END PUBLIC KEY-----\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 10438,
+      "offset": 10446,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 10555,
-      "length": 7,
-      "value": "\"error\""
+      "offset": 10563,
+      "length": 9,
+      "value": "\"error: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11359,
+      "offset": 11376,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11391,
+      "offset": 11408,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 11996,
+      "offset": 12013,
       "length": 24,
       "value": "\"RECT Observation error\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 13553,
+      "offset": 13570,
       "length": 3,
       "value": "1.4"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 13613,
+      "offset": 13630,
       "length": 3,
       "value": "1.8"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 13658,
+      "offset": 13675,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 13705,
+      "offset": 13722,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "Dictionary",
-      "offset": 13916,
+      "offset": 13933,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 14658,
+      "offset": 14675,
       "length": 60,
       "value": "\"\n============= STARTING OF IMAGE EXTRACTION =============\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "Dictionary",
-      "offset": 14806,
+      "offset": 14823,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 17406,
+      "offset": 17423,
       "length": 25,
       "value": "\"CIPerspectiveCorrection\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 17475,
+      "offset": 17492,
       "length": 14,
       "value": "\"inputTopLeft\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 17535,
+      "offset": 17552,
       "length": 15,
       "value": "\"inputTopRight\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 17597,
+      "offset": 17614,
       "length": 17,
       "value": "\"inputBottomLeft\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 17663,
+      "offset": 17680,
       "length": 18,
       "value": "\"inputBottomRight\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 18900,
+      "offset": 18917,
       "length": 3,
       "value": "\"w\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 18969,
+      "offset": 18986,
       "length": 3,
       "value": "\"h\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 19388,
+      "offset": 19405,
       "length": 3,
       "value": "\"w\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 19450,
+      "offset": 19467,
       "length": 3,
       "value": "\"h\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 19609,
+      "offset": 19626,
       "length": 3,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 19691,
+      "offset": 19708,
       "length": 3,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 19723,
+      "offset": 19740,
       "length": 3,
       "value": "\"h\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 21777,
+      "offset": 21794,
       "length": 14,
       "value": "\"Similarity: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 21851,
+      "offset": 21868,
       "length": 36,
       "value": "\"Error: Couldn't compute similarity\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 21950,
+      "offset": 21967,
       "length": 51,
       "value": "\"Error: Could not convert base64 string to UIImage\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 22066,
+      "offset": 22083,
       "length": 32,
       "value": "\"Error cropping image: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 22097,
+      "offset": 22114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 22431,
+      "offset": 22448,
       "length": 22,
       "value": "\"similarityTreshold: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 22706,
+      "offset": 22723,
       "length": 29,
       "value": "\"totalConfigKeys number is: \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 23180,
+      "offset": 23197,
       "length": 8,
       "value": "\"points\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 23290,
+      "offset": 23307,
       "length": 3,
       "value": "\"w\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 23361,
+      "offset": 23378,
       "length": 3,
       "value": "\"h\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 23433,
+      "offset": 23450,
       "length": 3,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 23524,
+      "offset": 23541,
       "length": 3,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 23548,
+      "offset": 23565,
       "length": 3,
       "value": "\"h\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 24203,
+      "offset": 24220,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 24222,
+      "offset": 24239,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 24380,
+      "offset": 24397,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 24559,
+      "offset": 24576,
       "length": 7,
       "value": "\"regex\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 24623,
+      "offset": 24640,
       "length": 8,
       "value": "\"regex:\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 24644,
+      "offset": 24661,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 25175,
+      "offset": 25192,
       "length": 27,
       "value": "\"Regex does not match for \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 25214,
+      "offset": 25231,
       "length": 14,
       "value": "\"with regex; \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 25735,
+      "offset": 25752,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 25754,
+      "offset": 25771,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 25811,
+      "offset": 25828,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 26169,
+      "offset": 26186,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 26188,
+      "offset": 26205,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 26346,
+      "offset": 26363,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 26525,
+      "offset": 26542,
       "length": 7,
       "value": "\"regex\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 26589,
+      "offset": 26606,
       "length": 8,
       "value": "\"regex:\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 26610,
+      "offset": 26627,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27141,
+      "offset": 27158,
       "length": 27,
       "value": "\"Regex does not match for \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27180,
+      "offset": 27197,
       "length": 14,
       "value": "\"with regex; \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27640,
+      "offset": 27657,
       "length": 49,
       "value": "\"Error cropping image for field \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27678,
+      "offset": 27695,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27688,
+      "offset": 27705,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27837,
+      "offset": 27854,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27844,
+      "offset": 27861,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 27855,
+      "offset": 27872,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28149,
+      "offset": 28166,
       "length": 23,
       "value": "\"---processedFields---\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28196,
+      "offset": 28213,
       "length": 52,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28220,
+      "offset": 28237,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28247,
+      "offset": 28264,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28272,
+      "offset": 28289,
       "length": 23,
       "value": "\"---processedFields---\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28319,
+      "offset": 28336,
       "length": 21,
       "value": "\"id recognition done\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28341,
+      "offset": 28358,
       "length": 52,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28365,
+      "offset": 28382,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28392,
+      "offset": 28409,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 28557,
+      "offset": 28574,
       "length": 59,
       "value": "\"============= END OF IMAGE EXTRACTION =============\n\n\n\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 29053,
+      "offset": 29070,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 29121,
+      "offset": 29138,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 29241,
+      "offset": 29258,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 29363,
+      "offset": 29380,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 30030,
+      "offset": 30047,
       "length": 21,
       "value": "\"UIImage is wrapped.\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 30244,
+      "offset": 30261,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 30339,
+      "offset": 30356,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 30932,
+      "offset": 30949,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 33253,
+      "offset": 33270,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 33336,
+      "offset": 33353,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 34153,
+      "offset": 34170,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 34202,
+      "offset": 34219,
       "length": 7,
       "value": "\"text:\""
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 34977,
+      "offset": 34994,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "Dictionary",
-      "offset": 35287,
+      "offset": 35304,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 35845,
+      "offset": 35862,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "Dictionary",
-      "offset": 37068,
+      "offset": 37085,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 38605,
+      "offset": 38622,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 38689,
+      "offset": 38706,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yasin\/Documents\/iOSProjects\/id-recognition-ios\/idrecognition_ios\/IDRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 38730,
+      "offset": 38747,
       "length": 5,
       "value": "false"
     }
