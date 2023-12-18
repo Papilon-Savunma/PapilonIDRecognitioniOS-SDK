@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		X2OuIBig8HOYGer9HdqkIHNumvE=
+		hMc30jqNCpXBaTZIcAm6jc7lLKE=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4VijQtM9DMJyVplbKfV56kZBj70=
+		OZT8tweXToBnXdVpND1f579IK4M=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		X2OuIBig8HOYGer9HdqkIHNumvE=
+		hMc30jqNCpXBaTZIcAm6jc7lLKE=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2pzhIYkSskBtfIuHUfD85HpgDAo=
+		O2VDe+Z9L6rvWhM7yXb/B3qD+hM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sXlnGM7YZcd88qWSx8GvG2CGO0myVxzHhhN+pfu281M=
+			U8KhRDxrg32V37FmMqWlvJJCwM/DbkGuO7U0bD1xtH4=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9yfUkgtApWH8obNOTL9+KBVz60gztrRjccpHLgQ3YsQ=
+			dKUcoKUMoiynst9qADUnOfPv7NgGGEDz7Q4VUxdH3sw=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sXlnGM7YZcd88qWSx8GvG2CGO0myVxzHhhN+pfu281M=
+			U8KhRDxrg32V37FmMqWlvJJCwM/DbkGuO7U0bD1xtH4=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9BYHCdzMZ2Cuhv1xCH3UZDQZW0aTajmswb+lGgkx5mQ=
+			yr46nbtUIyIXA+dOa+nJvcHZT0lAfX/E/KkWG9fe+JY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
