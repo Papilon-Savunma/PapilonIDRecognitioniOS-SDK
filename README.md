@@ -1,6 +1,6 @@
 # PapilonIDRecognitioniOS
 
-[![pod - 1.0.7](https://img.shields.io/badge/pod-1.0.7-blue)](https://cocoapods.org/)
+[![pod - 1.0.8](https://img.shields.io/badge/pod-1.0.8-blue)](https://cocoapods.org/)
 
 PapilonIDRecognitioniOS-SDK is a robust SDK that offers ID recognition features for various countries' ID cards, passports, and driving licenses.
 
