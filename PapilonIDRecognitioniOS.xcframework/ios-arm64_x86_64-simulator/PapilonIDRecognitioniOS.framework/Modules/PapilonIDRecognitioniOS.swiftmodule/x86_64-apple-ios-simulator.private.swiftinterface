@@ -13,7 +13,12 @@ import Vision
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public protocol IDRecognizerDelegate : AnyObject {
+  func rectangleDetected()
+  func noRectangleDetected()
+}
 public class IDRecognizer {
+  weak public var delegate: (any PapilonIDRecognitioniOS.IDRecognizerDelegate)?
   public var idType: Swift.String?
   public var licenceToken: Swift.String
   public var requestErrorType: Swift.Int?
@@ -28,5 +33,8 @@ public class IDRecognizer {
   public init(idType: Swift.String, token: Swift.String, licenceID: Swift.String, completion: @escaping (Swift.Int) -> Swift.Void)
   public func detectIDDocument(in image: CoreVideo.CVPixelBuffer) -> Swift.Dictionary<Swift.String, Any>
   public func appendCapturedImage(key: Swift.String, image: CoreImage.CIImage)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class MRZChecker {
   @objc deinit
 }
