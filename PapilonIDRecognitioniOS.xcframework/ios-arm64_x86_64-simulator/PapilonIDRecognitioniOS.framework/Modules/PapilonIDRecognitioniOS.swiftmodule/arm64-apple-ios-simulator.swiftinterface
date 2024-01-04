@@ -31,7 +31,7 @@ public class IDRecognizer {
   }
   public func getCapturedImages() -> [PapilonIDRecognitioniOS.IDRecognizer.ImageResult]
   public init(idType: Swift.String, token: Swift.String, licenceID: Swift.String, completion: @escaping (Swift.Int) -> Swift.Void)
-  public func detectIDDocument(in image: CoreVideo.CVPixelBuffer) -> Swift.Dictionary<Swift.String, Any>
+  public func detectIDDocument(in image: CoreVideo.CVPixelBuffer, cropRect: CoreFoundation.CGRect, cropEnabled: Swift.Bool = false, minRectSize: Swift.Float = 0.4) -> Swift.Dictionary<Swift.String, Any>
   public func appendCapturedImage(key: Swift.String, image: CoreImage.CIImage)
   @objc deinit
 }
