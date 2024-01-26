@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9WMr+BCUS+ZJg83fWS2QZIBxm2E=
+		QbnI79rRTSAsf8q/dLUxRrc1EvQ=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9WMr+BCUS+ZJg83fWS2QZIBxm2E=
+		QbnI79rRTSAsf8q/dLUxRrc1EvQ=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x6QeORIhhKEM1nmCHpwJFw3wJINB9PyDmKYRpVl0RtM=
+			7i78qx0pxQYjJ0L9gi8q84GjIsK4p9rfLsnj5v3s7js=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x6QeORIhhKEM1nmCHpwJFw3wJINB9PyDmKYRpVl0RtM=
+			7i78qx0pxQYjJ0L9gi8q84GjIsK4p9rfLsnj5v3s7js=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
