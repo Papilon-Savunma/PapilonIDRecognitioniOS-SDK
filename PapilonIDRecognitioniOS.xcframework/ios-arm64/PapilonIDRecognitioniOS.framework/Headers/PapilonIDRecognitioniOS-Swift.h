@@ -277,6 +277,9 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import AVFoundation;
+@import CoreMedia;
+@import ObjectiveC;
 #endif
 
 #endif
@@ -297,6 +300,19 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+
+SWIFT_CLASS("_TtC23PapilonIDRecognitioniOS13CameraManager")
+@interface CameraManager : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class AVCaptureOutput;
+@class AVCaptureConnection;
+
+@interface CameraManager (SWIFT_EXTENSION(PapilonIDRecognitioniOS)) <AVCaptureVideoDataOutputSampleBufferDelegate>
+- (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
+@end
+
 
 
 #endif

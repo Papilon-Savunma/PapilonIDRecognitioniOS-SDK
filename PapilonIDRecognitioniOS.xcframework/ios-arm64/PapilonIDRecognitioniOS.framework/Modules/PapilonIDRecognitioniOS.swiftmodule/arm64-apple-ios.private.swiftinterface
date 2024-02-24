@@ -13,27 +13,40 @@ import Vision
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public protocol IDRecognizerDelegate : AnyObject {
-  func rectangleDetected()
-  func noRectangleDetected()
-}
 public class IDRecognizer {
-  weak public var delegate: (any PapilonIDRecognitioniOS.IDRecognizerDelegate)?
+  weak public var delegateCameraManager: (any PapilonIDRecognitioniOS.CameraManagerDelegate)?
   public var idType: Swift.String?
   public var licenceToken: Swift.String
-  public var requestErrorType: Swift.Int?
   public var similarityTreshold: Swift.Float
   public var licenceID: Swift.String?
   public var IDUIImage: UIKit.UIImage
+  public var isRectangleDetectedX: Swift.Bool
   public struct ImageResult {
     public let key: Swift.String
     public let image: CoreImage.CIImage
   }
   public func getCapturedImages() -> [PapilonIDRecognitioniOS.IDRecognizer.ImageResult]
-  public init(idType: Swift.String, token: Swift.String, licenceID: Swift.String, completion: @escaping (Swift.Int) -> Swift.Void)
+  public init(idType: Swift.String, token: Swift.String, licenceID: Swift.String, completion: @escaping (Swift.Bool) -> Swift.Void)
   public func detectIDDocument(in image: CoreVideo.CVPixelBuffer, cropRect: CoreFoundation.CGRect, cropEnabled: Swift.Bool = false, minRectSize: Swift.Float = 0.4) -> Swift.Dictionary<Swift.String, Any>
   public func appendCapturedImage(key: Swift.String, image: CoreImage.CIImage)
   @objc deinit
+}
+public protocol CameraManagerDelegate : AnyObject {
+  func didUpdateMarkerImage(_ image: UIKit.UIImage)
+  func didCaptureImages(_ images: [PapilonIDRecognitioniOS.IDRecognizer.ImageResult])
+}
+@objc @_inheritsConvenienceInitializers public class CameraManager : ObjectiveC.NSObject {
+  weak public var delegateCameraManager: (any PapilonIDRecognitioniOS.CameraManagerDelegate)?
+  @objc override dynamic public init()
+  public func configureCameraManager(idType: Swift.String, token: Swift.String, licenseID: Swift.String, in view: UIKit.UIView)
+  public func setPreviewView(_ view: UIKit.UIView)
+  public func startCamera(completion: @escaping (Swift.Bool) -> Swift.Void)
+  public func stopCamera()
+  public func requestCapturedImages()
+  @objc deinit
+}
+extension PapilonIDRecognitioniOS.CameraManager : AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
+  @objc dynamic public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
 }
 @_hasMissingDesignatedInitializers public class MRZChecker {
   @objc deinit
