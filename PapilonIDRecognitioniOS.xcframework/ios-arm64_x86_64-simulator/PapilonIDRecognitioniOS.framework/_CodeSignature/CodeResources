@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Mo8LNSo9HDZW73hU7nB1ZGuLjQQ=
+		r05tbKseOwku7xi1KzSITkqDTTw=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		51MBItMx90xfLkq1nx5GjNMjVu4=
+		bWCqClvw2jQOUtUPE+14i2Nxoc4=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		51MBItMx90xfLkq1nx5GjNMjVu4=
+		bWCqClvw2jQOUtUPE+14i2Nxoc4=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zn8acor5iFTHCoNjcvlcW47RzAE=
+		fHx0oe7B7nO+TvWZtw7mq0ylmWo=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Mo8LNSo9HDZW73hU7nB1ZGuLjQQ=
+		r05tbKseOwku7xi1KzSITkqDTTw=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cyHHtB3f3l8Hv4mbfC5rI/NMHUw=
+		E8a8Wo2i7+Aiu72VaO6hUqO1Sg0=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cyHHtB3f3l8Hv4mbfC5rI/NMHUw=
+		E8a8Wo2i7+Aiu72VaO6hUqO1Sg0=
 		</data>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Wf83PkZ/bHTyBi1IfGD6s1lpnPI=
+		y65jJcQh2mI7NToTHPJqWqdFqRw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NyiHp4aZWd4rtbEPpsK7Plo76UF7BXD0d31dSRHjDgc=
+			aAh12pMywK90pJdTbO61rU1wZrafVnxr277hRRDF18s=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			96U6CLVsVbJTuX6B5rpIcXT9Lkyu6KSG+ARah0M/xzs=
+			/j3Z9j5BbAMp/2+ROkJRjSfUfk0CQIP/tYdQib9rz24=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -106,28 +106,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			96U6CLVsVbJTuX6B5rpIcXT9Lkyu6KSG+ARah0M/xzs=
+			/j3Z9j5BbAMp/2+ROkJRjSfUfk0CQIP/tYdQib9rz24=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1X3pnx6auyccWeRzFwBWGp0g3FHxO7LXiBcg4TUAhqI=
+			0kV6qwFFQxCwEOXtyEPIdeHoKupKu3+hnKIVAx0MZIo=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NyiHp4aZWd4rtbEPpsK7Plo76UF7BXD0d31dSRHjDgc=
+			aAh12pMywK90pJdTbO61rU1wZrafVnxr277hRRDF18s=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOg/xXKDxoddAT8nLkL2uLm2lVpmPKQHpN5Q1TKic9s=
+			A8iiz6D9SXdT6KODu5uihPQ5HD9y4Q6352OlZS/1Ocs=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -141,14 +141,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOg/xXKDxoddAT8nLkL2uLm2lVpmPKQHpN5Q1TKic9s=
+			A8iiz6D9SXdT6KODu5uihPQ5HD9y4Q6352OlZS/1Ocs=
 			</data>
 		</dict>
 		<key>Modules/PapilonIDRecognitioniOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rNKAGPCztsAtlmFMYJUrBkaRtifGOfUmQl5Agq3NfeQ=
+			h1AHNlfBUtxfB/5bHw9qGHQswCPgBgIqvD2Vb8OaVOU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

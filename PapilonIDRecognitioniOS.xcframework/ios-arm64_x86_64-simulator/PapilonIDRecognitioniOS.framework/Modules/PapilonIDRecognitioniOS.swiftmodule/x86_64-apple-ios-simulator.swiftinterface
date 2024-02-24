@@ -34,6 +34,7 @@ public class IDRecognizer {
 public protocol CameraManagerDelegate : AnyObject {
   func didUpdateMarkerImage(_ image: UIKit.UIImage)
   func didCaptureImages(_ images: [PapilonIDRecognitioniOS.IDRecognizer.ImageResult])
+  func didDetectIDDocument(results: [Swift.String : Any])
 }
 @objc @_inheritsConvenienceInitializers public class CameraManager : ObjectiveC.NSObject {
   weak public var delegateCameraManager: (any PapilonIDRecognitioniOS.CameraManagerDelegate)?

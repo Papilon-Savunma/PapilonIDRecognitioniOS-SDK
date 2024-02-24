@@ -1103,6 +1103,49 @@
             ],
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didDetectIDDocument",
+            "printedName": "didDetectIDDocument(results:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:23PapilonIDRecognitioniOS21CameraManagerDelegateP19didDetectIDDocument7resultsySDySSypG_tF",
+            "mangledName": "$s23PapilonIDRecognitioniOS21CameraManagerDelegateP19didDetectIDDocument7resultsySDySSypG_tF",
+            "moduleName": "PapilonIDRecognitioniOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : PapilonIDRecognitioniOS.CameraManagerDelegate>",
+            "sugared_genericSig": "<Self where Self : PapilonIDRecognitioniOS.CameraManagerDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Protocol",
@@ -2816,233 +2859,226 @@
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 771,
+      "offset": 864,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 1061,
+      "offset": 1154,
       "length": 18,
       "value": "\"idr_sessionQueue\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 1141,
+      "offset": 1234,
       "length": 35,
       "value": "\"idr_camera_frame_processing_queue\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 1266,
+      "offset": 1359,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 1290,
+      "offset": 1383,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 1310,
+      "offset": 1403,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 2554,
+      "offset": 2647,
       "length": 24,
       "value": "\"Capture session is nil\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 3080,
+      "offset": 3173,
       "length": 37,
       "value": "\"Could not create video device input\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 3979,
+      "offset": 4072,
       "length": 33,
       "value": "\"Could not add video data output\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 4671,
+      "offset": 4764,
       "length": 24,
       "value": "\"Capture session is nil\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 5567,
+      "offset": 5660,
       "length": 26,
       "value": "\"Preview view is not set.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5618,
+      "offset": 5711,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5914,
+      "offset": 6007,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6378,
+      "offset": 6471,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 6754,
+      "offset": 6847,
       "length": 26,
       "value": "\"Preview view is not set.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7106,
+      "offset": 7199,
       "length": 23,
       "value": "\"Drawing new rectangle\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7168,
+      "offset": 7261,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7210,
+      "offset": 7303,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7272,
+      "offset": 7365,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7334,
+      "offset": 7427,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7627,
+      "offset": 7720,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8272,
+      "offset": 8365,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8519,
+      "offset": 8612,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8805,
+      "offset": 8898,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 9520,
+      "offset": 9613,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 9811,
+      "offset": 9904,
       "length": 40,
       "value": "\"Unable to get image from sample buffer\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10099,
+      "offset": 10192,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10209,
+      "offset": 10302,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10216,
+      "offset": 10309,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10252,
+      "offset": 10345,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10519,
+      "offset": 10621,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 10538,
+      "offset": 10640,
       "length": 3,
       "value": "0.4"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/CameraManager.swift",
-      "kind": "Dictionary",
-      "offset": 10546,
-      "length": 3,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/IDRecognitionWorkingDirectory\/idrecognition_ios\/MRZChecker.swift",
