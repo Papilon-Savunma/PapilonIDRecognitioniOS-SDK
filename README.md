@@ -1,6 +1,6 @@
 # PapilonIDRecognitioniOS
 
-[![pod - 1.1.4](https://img.shields.io/badge/pod-1.1.4-blue)](https://cocoapods.org/)
+[![pod - 1.1.5](https://img.shields.io/badge/pod-1.1.5-blue)](https://cocoapods.org/)
 
 PapilonIDRecognitioniOS-SDK is a robust SDK that offers ID recognition features for various countries' ID cards, passports, and driving licenses.
 
@@ -63,15 +63,54 @@ Ensure that your application has permission to access the camera. Update your in
 
 #### 3. SDK Initialization
 
-Simply create an object with class `IDRecognizer`, with initializers `idType`, `token` and `licenceID`. The "token" and "licenceID" will be given from Papilon Savunma.
-
+First, import PapilonIDRecognitioniOS in your ViewController:
 ```swift
-// Sample Initialization
-let idRecognizer = IDRecognizer(
-  idType: "###ID_TYPE###",
-  token: "###TOKEN_TAKEN_FROM_PAPILON###",
-  licenceID: "###LICENCE_ID_TAKEN_FROM_PAPILON###"
-)
+import UIKit
+import AVFoundation
+import PapilonIDRecognitioniOS
+```
+
+Then, initialize and configure the CameraManager:
+```swift
+class ViewController: UIViewController, CameraManagerDelegate {
+    var cameraManager: CameraManager?
+    
+    @IBOutlet weak var previewView: UIView!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        cameraManager = CameraManager()
+        cameraManager?.delegateCameraManager = self
+        cameraManager?.configureCameraManager(
+          idType: "<id_type>", 
+          token: "<your_token>", 
+          licenseID: "<license_id>", 
+          in: previewView)
+    }
+}
+```
+
+Implement CameraManagerDelegate methods to handle captured images, distance evaluation, and ID document detection:
+```swift
+extension ViewController {
+    
+    func didCaptureImages(_ images: [IDRecognizer.ImageResult]) {
+        // Handle captured images
+    }
+    
+    func didEvaluateDistance(evaluation: IDRecognizer.DistanceEvaluation) {
+        // Handle distance evaluation
+    }
+    
+    func didDetectIDDocument(results: [String : Any]) {
+        // Handle ID document detection
+    }
+    
+    func didUpdateMarkerImage(_ image: UIImage) {
+        // Handle marker image updates
+    }
+}
 ```
 
 For more detailed usage, examine the sample application.
