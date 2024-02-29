@@ -113,13 +113,88 @@ extension ViewController {
 }
 ```
 
-For more detailed usage, examine the sample application.
+## Example: a Complete ViewController
+```swift
+import UIKit
+import AVFoundation
+import PapilonIDRecognitioniOS
 
-#### Supported ID Types
+class ViewController: UIViewController, CameraManagerDelegate {
+    var cameraManager: CameraManager?
+    
+    @IBOutlet weak var previewView: UIView!
+    @IBOutlet weak var capturedImageView: UIImageView!
+    @IBOutlet weak var checkLabelsBtn: UIButton!
+    
+    var distanceLabel: UILabel!
 
-- list will be updated.
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        cameraManager = CameraManager()
+        cameraManager?.delegateCameraManager = self
+        cameraManager?.configureCameraManager(
+            idType: "<id_type>", // for example 792_id_front for Turkish ID Card as seen in the example ui below.
+            token: "<your_token>",
+            licenseID: "<license_id>",
+            in: previewView
+        )
+                
+        distanceLabel = UILabel()
+        distanceLabel.frame = CGRect(x: 20, y: previewView.frame.maxY + 20, width: view.frame.width - 40, height: 40)
+        distanceLabel.backgroundColor = .lightGray
+        distanceLabel.textColor = .white
+        distanceLabel.textAlignment = .center
+        distanceLabel.text = "" 
+        view.addSubview(distanceLabel)
+        view.bringSubview(toFront: distanceLabel)
+        distanceLabel.isHidden = true
+    }
+    
+    // Handle check labels button
+    @IBAction func didTakePhoto(_ sender: UIButton) {
+        cameraManager?.requestCapturedImages()
+    }
 
-| Parameter | Type     | Value                | Description       |
-| :-------- | :------- | :------------------- | :---------------- |
-| `idType`  | `string` | `586_nic_id_front`   | PK NIC ID Front   |
-| `idType`  | `string` | `586_nicop_id_front` | PK NICOP ID Front |
+    
+    //MARK: CameraManagerDelegate methods...
+    func didCaptureImages(_ images: [IDRecognizer.ImageResult]) {
+        // When this method is called, open the CapturedImagesViewController and pass it the image results.
+        let capturedImagesVC = CapturedImagesViewController(images: images)
+        self.present(capturedImagesVC, animated: true, completion: nil)
+    }
+    
+    func didUpdateMarkerImage(_ image: UIImage) {
+        // Actions to be taken when the marker image is updated
+        DispatchQueue.main.async {
+            self.capturedImageView.image = image
+        }
+    }
+    
+    func didDetectIDDocument(results: [String : Any]) {
+        if let keyName = results["name"] as? String {
+            print(keyName)
+        } else {
+            print("Not found in results dictionary")
+        }
+    }
+    
+    func didEvaluateDistance(evaluation: IDRecognizer.DistanceEvaluation) {
+        DispatchQueue.main.async {
+            switch evaluation {
+            case .tooFar, .tooClose:
+                self.distanceLabel.text = "Keep document in the frame"
+                self.distanceLabel.isHidden = false // show uilabel
+            case .perfect:
+                // if "perfect" then hide uilabel
+                self.distanceLabel.isHidden = true
+            }
+        }
+    }
+
+}
+```
+## Example: ViewController UI
+<div style="text-align:center">
+    <img src="example-ui.jpg" alt="Example UI" width="500">
+</div>
