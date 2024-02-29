@@ -5,9 +5,6 @@
 PapilonIDRecognitioniOS-SDK is a robust SDK that offers ID recognition features for various countries' ID cards, passports, and driving licenses.
 
 ## Getting Started
-
-To run the example project, clone the repo, and run `pod install` in the IDRecognitionDemo directory first.
-
 ### Prerequisites
 
 - iOS 13+
