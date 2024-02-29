@@ -61,6 +61,10 @@ end
 
 Ensure that your application has permission to access the camera. Update your info.plist accordingly.
 
+    <!-- Camera Usage Description -->
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires camera access to perform id recognition.</string>
+
 #### 3. SDK Initialization
 
 First, import PapilonIDRecognitioniOS in your ViewController:
